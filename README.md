@@ -42,3 +42,23 @@ Toplantı ve konuşmalardan örnekler word dosyasında mevcuttur. [Sprint1.docx]
 
 Sprint Board Screenshot:
 ![Backlog 1](https://github.com/mustafa-ege/GoogleOUA-Bootcamp-Grup110/blob/main/ProjectManagementDocuments/backlog1.png) 
+
+## Sprint 2
+Sprint Notları: Yapılacak yeni görevler belirlendi. Müsait olmayanlar müsaitliğini ayarladı ve görev paylaşımı yapıldı.
+![Backlog 2](https://github.com/mustafa-ege/GoogleOUA-Bootcamp-Grup110/blob/main/ProjectManagementDocuments/backlog2.png) 
+
+Sprint içinde tamamlanması tahmin edilen puan: 120 Puan
+
+Daily Scrum: Toplantılar Discord üzerinden yapılıyor düzenli olarak. Her akşam toplantı yapma kararı alındı ve ilerlemeler kaydedildi.
+Sprint board update: Sprint board screenshotları:
+
+Ürün Durumu: Ekran görüntüleri:
+![gamescenefirstlook](https://github.com/mustafa-ege/GoogleOUA-Bootcamp-Grup110/blob/main/ProjectManagementDocuments/gamescenefirstlook.png) 
+![food](https://github.com/mustafa-ege/GoogleOUA-Bootcamp-Grup110/blob/main/ProjectManagementDocuments/foodspawn.png) 
+![foodpickup](https://github.com/mustafa-ege/GoogleOUA-Bootcamp-Grup110/blob/main/ProjectManagementDocuments/foodpickup.png) 
+
+Sprint Review: Yoğunluktan dolayı dolayı gecikme olsa da çözülemeyen birkaç sorun kaldı. Oyunu tam 1 Ağustos’ta bitirme kararı alındı. Review katılımcıları: Sude Mengen, Şerife Oğuz, Sıla Er, Mustafa Ege
+
+Sprint Retrospective: Takım üyelerinin gelecek sprintte daha fazla görev alınması gerektiğine karar verildi.
+
+
