@@ -46,12 +46,11 @@ Toplantı ve konuşmalardan örnekler word dosyasında mevcuttur. [Sprint1.docx]
 ## Sprint 2
 **Sprint Notları:** Yapılacak yeni görevler belirlendi. Müsait olmayanlar müsaitliğini ayarladı ve görev paylaşımı yapıldı.
 
-Sprint içinde tamamlanması tahmin edilen puan: 120 Puan
+**Sprint içinde tamamlanması tahmin edilen puan:** 120 Puan
 
 **Daily Scrum:** Toplantılar Discord üzerinden yapılıyor düzenli olarak. Her akşam toplantı yapma kararı alındı ve ilerlemeler kaydedildi.
 
-**Sprint board update:**
-Sprint board screenshot:
+**Sprint board Screenshot Update:**
 ![Backlog 2](https://github.com/mustafa-ege/GoogleOUA-Bootcamp-Grup110/blob/main/ProjectManagementDocuments/backlog2.png) 
 
 **Ürün Durumu:** Ekran görüntüleri:
