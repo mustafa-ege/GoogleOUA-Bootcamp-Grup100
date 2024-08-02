@@ -73,6 +73,10 @@ Toplantı ve konuşmalardan örnekler word dosyasında mevcuttur. [Sprint1.docx]
 ![Ekran Alıntısı](https://github.com/user-attachments/assets/16f1b6b7-65b1-4e15-a671-2ac7446ef14f)
 
 **Ürün Durumu:**
+![1](https://github.com/user-attachments/assets/6b842ac0-6acc-42bb-bac7-03006cf3af8d)
+![Ekran_goruntusu_2024-08-02_182836](https://github.com/user-attachments/assets/084bc3b5-fceb-4c2b-9abc-7b573ed5bcc5)
+![Ekran_goruntusu_2024-08-02_182854](https://github.com/user-attachments/assets/1a268b15-e9dd-40ad-9074-d333343a5e4c)
+![Ekran_goruntusu_2024-08-02_182547](https://github.com/user-attachments/assets/67bfb2b0-7e9f-4881-8777-51e2d1c46d70)
 
 **Sprint Review:** Son güncellemeler yapıldı ve video çekimi tamamlandı. Review katılımcıları: Sude Mengen, Şerife Oğuz, Sıla Er, Mustafa Ege
 
