@@ -50,7 +50,7 @@ public class Food : MonoBehaviour
         if (customer != null)
         {
             // Calculate the position in front of the customer
-            Vector3 frontPosition = customer.transform.position + customer.transform.forward * 1.5f; // Adjust the distance as needed
+            Vector3 frontPosition = customer.transform.position + customer.transform.forward ; // Adjust the distance as needed
             frontPosition.y = customer.transform.position.y; // Maintain the same height as the customer
 
             // Update food position

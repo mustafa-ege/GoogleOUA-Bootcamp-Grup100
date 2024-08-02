@@ -1,10 +1,12 @@
 using UnityEngine;
 using System.Collections.Generic;
+using UnityEngine.AI; // NavMesh için gerekli
 
 public class CustomerSpawner : MonoBehaviour
 {
     public List<GameObject> customerPrefabs; // List of customer prefabs to spawn
     public List<Transform> spawnPointSet; // List of spawn point transforms
+    public List<Transform> tablePoints; // Masalarýn transform listesi
     public float spawnInterval = 5.0f; // Time between spawns
     public int maxCustomers = 10; // Maximum number of customers allowed in the scene
 
@@ -38,9 +40,9 @@ public class CustomerSpawner : MonoBehaviour
 
     void SpawnCustomer()
     {
-        if (customerPrefabs.Count == 0 || spawnPointSet.Count == 0)
+        if (customerPrefabs.Count == 0 || spawnPointSet.Count == 0 || tablePoints.Count == 0)
         {
-            Debug.LogError("Customer prefabs or spawn points not set.");
+            Debug.LogError("Customer prefabs, spawn points, or table points not set.");
             return;
         }
 
@@ -56,7 +58,28 @@ public class CustomerSpawner : MonoBehaviour
         GameObject newCustomer = Instantiate(customerPrefab, spawnPoint.position, spawnPoint.rotation);
         spawnedCustomers.Add(newCustomer);
 
+        // Müþteriyi masaya yönlendirin
+        MoveCustomerToTable(newCustomer);
+
         Debug.Log("Customer spawned: " + customerPrefab.name + " at " + spawnPoint.position);
+    }
+
+    void MoveCustomerToTable(GameObject customer)
+    {
+        // Müþteri için bir hedef masa seçin
+        int randomTableIndex = Random.Range(0, tablePoints.Count);
+        Transform targetTable = tablePoints[randomTableIndex];
+
+        // Müþterinin NavMeshAgent'ýný alýn ve hedefi ayarlayýn
+        NavMeshAgent agent = customer.GetComponent<NavMeshAgent>();
+        if (agent != null)
+        {
+            agent.SetDestination(targetTable.position);
+        }
+        else
+        {
+            Debug.LogError("Customer does not have a NavMeshAgent component.");
+        }
     }
 
     void CleanupCustomers()

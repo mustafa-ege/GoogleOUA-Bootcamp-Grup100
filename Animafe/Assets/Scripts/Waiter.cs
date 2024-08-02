@@ -142,6 +142,8 @@ public class Waiter : MonoBehaviour
             }
             else
             {
+                customer.ReceiveFood(heldFood.foodName);
+                heldFood.DeliverToCustomer();
                 Debug.Log("Wrong customer!");
             }
         }
