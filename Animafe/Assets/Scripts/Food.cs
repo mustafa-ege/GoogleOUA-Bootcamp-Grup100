@@ -1,5 +1,3 @@
-
-
 using UnityEngine;
 
 public class Food : MonoBehaviour
@@ -43,7 +41,32 @@ public class Food : MonoBehaviour
         if (customer != null)
         {
             customer.ReceiveFood(foodName);
-            Destroy(gameObject); // Remove food from the scene after delivery
+            PlaceInFrontOfCustomer();
+        }
+    }
+
+    private void PlaceInFrontOfCustomer()
+    {
+        if (customer != null)
+        {
+            // Calculate the position in front of the customer
+            Vector3 frontPosition = customer.transform.position + customer.transform.forward * 1.5f; // Adjust the distance as needed
+            frontPosition.y = customer.transform.position.y; // Maintain the same height as the customer
+
+            // Update food position
+            transform.SetParent(null); // Unparent the food from the hold position
+            transform.position = frontPosition;
+            transform.rotation = Quaternion.identity;
+
+            // Re-enable the physics and collider if needed
+            if (rb != null)
+            {
+                rb.isKinematic = false; // Re-enable physics
+            }
+            if (col != null)
+            {
+                col.enabled = true; // Re-enable collider
+            }
         }
     }
 }

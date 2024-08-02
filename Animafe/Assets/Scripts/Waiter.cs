@@ -142,7 +142,7 @@ public class Waiter : MonoBehaviour
             }
             else
             {
-                Debug.LogError("Wrong customer!");
+                Debug.Log("Wrong customer!");
             }
         }
     }

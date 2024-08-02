@@ -53,7 +53,6 @@ public class Customer : MonoBehaviour
 {
     public List<string> foodOptions; // List of possible food items
     public string currentOrder;
-    public Transform tablePosition; // The position where the customer sits
     private bool isPlayerNearby = false;
 
     void Start()
@@ -109,7 +108,7 @@ public class Customer : MonoBehaviour
         }
         else
         {
-            Debug.LogError("Wrong food delivered: " + food);
+            Debug.Log("Wrong food delivered: " + food);
         }
     }
 
