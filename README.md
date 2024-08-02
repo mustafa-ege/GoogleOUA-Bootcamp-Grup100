@@ -62,4 +62,17 @@ Toplantı ve konuşmalardan örnekler word dosyasında mevcuttur. [Sprint1.docx]
 
 **Sprint Retrospective:** Takım üyelerinin gelecek sprintte daha fazla görev alınması gerektiğine karar verildi.
 
+## Sprint 3
+**Sprint Notları:** Oyunun tasarımları değişti ve yeni tasarımlar eklendi. Menü dosyası ve kazanılan parayı harcama mantığı için bir level mantığı oluşturuldu. Müşterilerin istek ve yemek seçenekleri eklendi. NavMesh ile müşteri yönlendirmesi yapıldı.
+
+**Sprint içinde tamamlanması tahmin edilen puan:** 180 Puan
+
+**Daily Scrum:** Scrum toplantıları discord üzerinden yapıldı. Ayrıca günlük daha hızlı iletişime geçmek için whatsapp kullanıldı. Toplantı ve konuşmalardan örnekler word dosyasında mevcuttur.
+
+**Sprint Board Screenshot:**
+![Ekran Alıntısı](https://github.com/user-attachments/assets/16f1b6b7-65b1-4e15-a671-2ac7446ef14f)
+
+**Ürün Durumu:**
+
+**Sprint Review:** Son güncellemeler yapıldı ve video çekimi tamamlandı. Review katılımcıları: Sude Mengen, Şerife Oğuz, Sıla Er, Mustafa Ege
 
