@@ -48,6 +48,8 @@ Toplantı ve konuşmalardan örnekler word dosyasında mevcuttur. [Sprint1.docx]
 
 **Sprint içinde tamamlanması tahmin edilen puan:** 120 Puan
 
+**Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. İkinci sprint'in 120 puan olmasına karar verildi.
+
 **Daily Scrum:** Toplantılar Discord üzerinden yapılıyor düzenli olarak. Her akşam toplantı yapma kararı alındı ve ilerlemeler kaydedildi.
 
 **Sprint board Screenshot Update:**
@@ -66,6 +68,8 @@ Toplantı ve konuşmalardan örnekler word dosyasında mevcuttur. [Sprint1.docx]
 **Sprint Notları:** Oyunun tasarımları değişti ve yeni tasarımlar eklendi. Menü dosyası ve kazanılan parayı harcama mantığı için bir level mantığı oluşturuldu. Müşterilerin istek ve yemek seçenekleri eklendi. NavMesh ile müşteri yönlendirmesi yapıldı.
 
 **Sprint içinde tamamlanması tahmin edilen puan:** 180 Puan
+
+**Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. İkinci sprint'in 180 puan olmasına karar verildi.
 
 **Daily Scrum:** Scrum toplantıları discord üzerinden yapıldı. Ayrıca günlük daha hızlı iletişime geçmek için whatsapp kullanıldı. Toplantı ve konuşmalardan örnekler word dosyasında mevcuttur.
 
