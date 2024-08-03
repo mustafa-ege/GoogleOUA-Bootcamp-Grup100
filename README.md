@@ -89,5 +89,5 @@ Toplantı ve konuşmalardan örnekler word dosyasında mevcuttur. [Sprint1.docx]
 
 **Sprint Review:** Son güncellemeler yapıldı ve video çekimi tamamlandı. Review katılımcıları: Sude Mengen, Şerife Oğuz, Sıla Er, Mustafa Ege
 
-**Sprint Retrospective:** Takım üyelerinyle birlikte oyunun son gerekenleri tamamlandı.
+**Sprint Retrospective:** Takım üyeleriyle birlikte oyunun son gerekenleri tamamlandı.
 
