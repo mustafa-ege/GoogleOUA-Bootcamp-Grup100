@@ -6,8 +6,8 @@
 - Mustafa Ege
 
 ## Ürün İsmi
-Şu anlık daha karar aşamasındayız.
- 
+Animafe 
+
 ## Ürün Açıklaması
 Bu eşsiz kafe simülatörü oyununda, sevimli hayvan dostlarımızın garsonu olarak eğlenceli ve macera dolu bir yolculuğa çıkacaksınız. Çiftliğin ortasında yer alan bu büyüleyici kafede, tavuklardan ineklere, kedilerden köpeklere kadar pek çok hayvan ziyaretçiyi ağırlayacaksınız. Hayal gücünüzün sınırlarını zorlayarak kafenizi dekore edin, lezzetli menüler hazırlayın ve her bir misafirin keyifli vakit geçirmesini sağlayın!
 
